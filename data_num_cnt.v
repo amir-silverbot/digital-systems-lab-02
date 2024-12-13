@@ -4,7 +4,7 @@ module DataNumCnt(
 	output cout
 );
 	reg [2:0] count;
-	assign cout = (count == 3'd4) ? 1 : 0;
+	assign cout = (count == 3'd3) ? 1 : 0;
 	
 	always @(posedge clk, posedge rst) begin
 		if (rst) count = 3'd0;

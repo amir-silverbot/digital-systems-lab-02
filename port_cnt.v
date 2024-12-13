@@ -4,7 +4,7 @@ module PortCnt(
 	output cout
 );
 	reg [1:0] count;
-	assign cout = (count == 2'd2) ? 1 : 0;
+	assign cout = (count == 2'd1) ? 1 : 0;
 	
 	always @(posedge clk, posedge rst) begin
 		if (rst) count = 2'd0;

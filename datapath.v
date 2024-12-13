@@ -12,6 +12,6 @@ module DataPath(
     PortCnt cntPort(clk, rst, clk_en, cnt1_en, clear, co1);
     DataNumCnt cntDataNum(clk, rst, clk_en, cnt2_en, clear, co2);
     DataNumShr shrDataNum(clk, rst, clk_en, shd_en, serIn, clear, dataNumShrOut);
-    DataTransCnt cntDataTrans(clk, rst, clk_en, cntd_en, ldcntd, clear, dataNumShrOut, cod, dataTransCntOut);
+    DataTransCnt cntDataTrans(clk, rst, clk_en, cntd_en, ldcntd, clear, {dataNumShrOut[2:0], serIn}, cod, dataTransCntOut);
     SSD ssd(dataTransCntOut, ssdOut);
 endmodule

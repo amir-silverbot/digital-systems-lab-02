@@ -9,6 +9,6 @@ module MSSD (
     
     DataPath datapath(clk, rst, clk_en, serIn, clear, cnt1_en, cnt2_en, cntd_en, ldcntd, sh_en, shd_en, portNumOut, p0, p1, p2, p3, cod, co1, co2, ssd);
     Controller controller(clk, rst, clk_en, co1, co2, cod, serIn, clear, cnt1_en, cnt2_en, cntd_en, ldcntd, sh_en, shd_en, seroutvalid, done);
-    assign clk_en = 1;
-    // OnePulser onepulser(clk, rst, clkPB, clk_en);
+    //assign clk_en = 1;
+    OnePulser onepulser(clk, rst, clkPB, clk_en);
 endmodule
