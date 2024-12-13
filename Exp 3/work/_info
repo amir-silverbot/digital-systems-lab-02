@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/Quiz-Lab
+vDDS
+Z0 !s110 1733745640
+!i10b 1
+!s100 L`eD@OfH9gDE5g:6glI2]0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImZkSNAbH=`POh>gbM^gSR0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/user/Desktop/DLD-Lab/Exp 3
+w1733745636
+8C:/Users/user/Desktop/DLD-Lab/Exp 3/dds.v
+FC:/Users/user/Desktop/DLD-Lab/Exp 3/dds.v
+!i122 39
+L0 2 66
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1733745640.000000
+!s107 C:/Users/user/Desktop/DLD-Lab/Exp 3/dds.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/Exp 3/dds.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@d@d@s
+vDDSTB
+R0
+!i10b 1
+!s100 @F4AlhR68WCQTg6<?5PTL3
+R1
+INJVigL4kKVOa_2a`cJJTK1
+R2
+R3
+w1733744518
+8C:/Users/user/Desktop/DLD-Lab/Exp 3/dds_testbench.v
+FC:/Users/user/Desktop/DLD-Lab/Exp 3/dds_testbench.v
+!i122 40
+L0 2 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/Desktop/DLD-Lab/Exp 3/dds_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/Exp 3/dds_testbench.v|
+!i113 1
+R6
+R7
+n@d@d@s@t@b
+vPWM
+R0
+!i10b 1
+!s100 c7GPES?n<AFYB43MVd7O51
+R1
+I_3JMPa1eOG0@PZ]k?YgMl1
+R2
+R3
+w1733740785
+8C:\Users\user\Desktop\DLD-Lab\Exp 3\pwm.v
+FC:\Users\user\Desktop\DLD-Lab\Exp 3\pwm.v
+!i122 38
+L0 2 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\user\Desktop\DLD-Lab\Exp 3\pwm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\user\Desktop\DLD-Lab\Exp 3\pwm.v|
+!i113 1
+R6
+R7
+n@p@w@m

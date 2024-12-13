@@ -1,0 +1,295 @@
+m255
+K3
+z0
+!s11f MIXED_VERSIONS
+13
+cModel Technology
+dD:\Program Files\ModelSim\examples
+vController
+Z0 !s110 1733132358
+!i10b 1
+!s100 55N@WFQEDlAINN9cm?lX02
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INCI095=>S6=Fe3?0Zi2VJ1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02
+Z4 w1733124488
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/controller.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/controller.v
+!i122 0
+L0 2 54
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1733132358.000000
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/controller.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@controller
+vDataNumCnt
+R0
+!i10b 1
+!s100 :WfcRePE3inWU>1:KZz:k0
+R1
+Ijl4Nlfi[;Z`Wc3Q_[>UQ;0
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_num_cnt.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_num_cnt.v
+!i122 1
+Z9 L0 2 14
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_num_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_num_cnt.v|
+!i113 1
+R7
+R8
+n@data@num@cnt
+vDataNumShr
+R0
+!i10b 1
+!s100 zGY@dT0AK<37e71>3@F`30
+R1
+I6[njQbY@:ize7lFcgNZo>3
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_num_shr.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_num_shr.v
+!i122 2
+Z10 L0 2 13
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_num_shr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_num_shr.v|
+!i113 1
+R7
+R8
+n@data@num@shr
+vDataPath
+R0
+!i10b 1
+!s100 gOk@RKPLF8AaTZhdB_gLX0
+R1
+IM5XS2DzOTQeP=374ozZH_1
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/datapath.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/datapath.v
+!i122 4
+L0 1 17
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/datapath.v|
+!i113 1
+R7
+R8
+n@data@path
+vDataTransCnt
+R0
+!i10b 1
+!s100 AQASO2oknTAakB@6KZI?13
+R1
+I>W2MBVYZI6z1z9jjTRojR2
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_trans_cnt.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_trans_cnt.v
+!i122 3
+L0 2 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_trans_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/data_trans_cnt.v|
+!i113 1
+R7
+R8
+n@data@trans@cnt
+vDemux
+R0
+!i10b 1
+!s100 =LH6=c8<P_P=0OaDaVX<i1
+R1
+I8lnhd4a[bi=2_z86mOH8c1
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/demux.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/demux.v
+!i122 5
+L0 2 15
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/demux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/demux.v|
+!i113 1
+R7
+R8
+n@demux
+vMSSD
+R0
+!i10b 1
+!s100 `BkdOHBCPR]`ACA_<C8^[1
+R1
+IFzB7MV;_k_<l6iH61CT;P3
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/mssd.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/mssd.v
+!i122 6
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/mssd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/mssd.v|
+!i113 1
+R7
+R8
+n@m@s@s@d
+vOnePulser
+R0
+!i10b 1
+!s100 0a[?lX1^lh8@M0G2kS`_P1
+R1
+IH=3fz:WXSDbDPbJPYjKB22
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/one_pulser.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/one_pulser.v
+!i122 7
+L0 2 30
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/one_pulser.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/one_pulser.v|
+!i113 1
+R7
+R8
+n@one@pulser
+vPortCnt
+R0
+!i10b 1
+!s100 ]4W:b2Hh=WFXNC;?JX9D@3
+R1
+IcBKk91hcXl89DWdl1fdJ20
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/port_cnt.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/port_cnt.v
+!i122 8
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/port_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/port_cnt.v|
+!i113 1
+R7
+R8
+n@port@cnt
+vPortNumShr
+R0
+!i10b 1
+!s100 kiRnNF<4GG:4`01DLQ]0]2
+R1
+Ib8AEzmzDV04nVlPZZ]h;f0
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/port_num_shr.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/port_num_shr.v
+!i122 9
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/port_num_shr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/port_num_shr.v|
+!i113 1
+R7
+R8
+n@port@num@shr
+vSSD
+Z11 !s110 1733132359
+!i10b 1
+!s100 A2=8k2Pmc_zZeSmW3Qi5j1
+R1
+I0If1lEZ>z<74n=LP4m4Xg3
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/ssd.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/ssd.v
+!i122 10
+L0 2 25
+R5
+r1
+!s85 0
+31
+Z12 !s108 1733132359.000000
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/ssd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/ssd.v|
+!i113 1
+R7
+R8
+n@s@s@d
+vTestBench
+R11
+!i10b 1
+!s100 Ki;CI1oR9DW=2Nd8U4e_Z3
+R1
+IzaQjeHkLn1B:Y_2HAXRUD0
+R2
+R3
+R4
+8C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/testbench.v
+FC:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/testbench.v
+!i122 11
+L0 2 31
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/DLD-Lab/digital-systems-lab-02/testbench.v|
+!i113 1
+R7
+R8
+n@test@bench
